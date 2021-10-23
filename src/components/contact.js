@@ -20,7 +20,7 @@ function Contact({ darkMode }) {
             <img
               className="image mobile"
               alt="Yaswanth"
-              src="https://avatars1.githubusercontent.com/u/40210064?s=400&u=05ed6b3730590bf8afa99c4f903f94c3cba7b968&v=4"
+              src="https://avatars.githubusercontent.com/u/70765767?v=4"
             />
           </div>
           <div className="desc">
@@ -47,7 +47,7 @@ function Contact({ darkMode }) {
             >
               <img alt="gmail" src={gmail} />
             </a>
-            <a href="tell:+919491606916" target="_blank" rel="noreferrer">
+            <a href="tel:+919491606916" target="_blank" rel="noreferrer">
               <img alt="phone" src={phone} />
             </a>
             <a
