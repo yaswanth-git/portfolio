@@ -9,7 +9,7 @@ import animationData from "../assets/animations/working.json";
 const LeftContent = (props) => {
   return (
     <div className="col-md-6 left">
-      <h1>Hi all 👋 I'm Yaswanth</h1>
+      <h1>Hello! Greetings!! 👋 I'm Yaswanth</h1>
       <p>
         A passionate Full Stack Software Developer 🚀 having an experience of
         building Web applications with ReactJs
