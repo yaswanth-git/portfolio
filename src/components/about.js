@@ -29,7 +29,7 @@ const LeftContent = (props) => {
         >
           <img alt="gmail" src={gmail} />
         </a>
-        <a href="tell:+919491606916" target="_blank" rel="noreferrer">
+        <a href="tel:+919491606916" target="_blank" rel="noreferrer">
           <img alt="phone" src={phone} />
         </a>
         <a
