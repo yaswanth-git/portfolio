@@ -1,0 +1,70 @@
+.proficiency {
+	/* height: 100vh; */
+	padding: 0px 40px;
+	/* margin-top: 100px; */
+	padding-top: 100px;
+}
+
+.proficiency .heading {
+	font-size: 56px;
+	font-weight: 400;
+	margin-bottom: 30px;
+}
+
+.proficiency .rating-bar {
+	margin-bottom: 20px;
+	height: 100px;
+}
+
+.proficiency .front-end {
+	width: 75vw;
+}
+
+.proficiency .backend {
+	width: 65vw;
+}
+
+.proficiency .Programming {
+	width: 70vw;
+}
+
+.proficiency .rating-bar .col-md-12 {
+	height: 25px;
+	padding: 0px;
+	border-radius: 20px;
+	background-color: #f3efef;
+	margin: 15px 0px;
+}
+.proficiency .rating-bar .col-md-9 {
+	background-color: #aaa5ff;
+	height: 25px;
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	padding: 0px;
+}
+
+@media (max-width: 576px) {
+	.proficiency {
+		height: fit-content;
+		/* margin-top: 50px; */
+		padding: 0px 40px;
+		padding-top: 50px;
+	}
+	.proficiency .heading {
+		font-size: 35px;
+		text-align: center;
+	}
+	.proficiency .front-end {
+		width: 68vw;
+	}
+
+	.proficiency .backend {
+		width: 58vw;
+	}
+
+	.proficiency .Programming {
+		width: 62vw;
+	}
+}

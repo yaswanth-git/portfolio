@@ -1,0 +1,40 @@
+#header-main {
+  background-color: white;
+  padding: 0px 10px;
+}
+
+.navbar-default {
+  margin: 0px;
+  /* height: 50px; */
+  border: 0px solid black;
+}
+
+.navbar-header button {
+  border: 0px;
+}
+
+.navbar-header .heading {
+  line-height: 50px;
+  color: #55198b;
+  font-size: 26px;
+  font-family: "DancingScript";
+  font-weight: 700;
+  letter-spacing: 5px;
+}
+
+.navbar-brand {
+  padding: 0px;
+}
+
+.navbar-right li {
+  margin: 0px 40px;
+  cursor: pointer;
+  font-size: 15px;
+  line-height: 50px;
+}
+
+@media (max-width: 576px) {
+  ul .darkMode {
+    margin-left: 12px;
+  }
+}

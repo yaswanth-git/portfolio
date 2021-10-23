@@ -1,0 +1,94 @@
+.row {
+  padding: 0px;
+  margin: 0px;
+}
+.about a {
+  text-decoration: none;
+  padding: 0px;
+  margin: 0px;
+}
+.about {
+  padding: 40px;
+  padding-top: 80px;
+}
+
+.about h1 {
+  font-size: 70px;
+}
+
+.about p {
+  font-size: 35px;
+  color: #868e96;
+  padding: 30px 0px;
+}
+
+.about .left img {
+  width: 40px;
+  margin-right: 15px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.about .right img {
+  width: 550px;
+}
+
+.about .left .buttons-div {
+  margin: 60px 0px;
+}
+
+.about .left .buttons-div .button {
+  border: 1px solid blue;
+  width: fit-content;
+  margin-right: 50px;
+  background-color: #55198b;
+  color: white;
+  padding: 15px 30px;
+  font-weight: bold;
+  border-radius: 5px;
+
+  border: 2px solid #55198b;
+  cursor: pointer;
+}
+
+.about .left .buttons-div .button:hover {
+  background-color: white;
+  color: #55198b;
+}
+
+@media (max-width: 576px) {
+  .about {
+    padding: 10px 20px;
+    text-align: center;
+  }
+  .about h1 {
+    font-size: 35px;
+  }
+  .about p {
+    font-size: 16px;
+    line-height: 23px;
+  }
+  .about .left {
+    margin-right: 100px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+  }
+  .about .left .icons {
+    margin-bottom: 20px;
+  }
+  .about .right img {
+    width: 80vw;
+  }
+  .about .left .buttons-div .button {
+    font-size: 10px;
+    margin-right: 0px;
+  }
+  .about .left .buttons-div {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    margin: 10px 0px 50px 0px;
+  }
+}

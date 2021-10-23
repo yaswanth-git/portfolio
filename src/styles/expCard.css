@@ -1,0 +1,23 @@
+.card-main {
+  margin: 30px 0px;
+  box-shadow: 0 10px 30px -15px grey;
+  padding: 0px;
+}
+.card .heading {
+  text-align: center;
+  padding: 70px 0px;
+  color: white;
+  width: auto;
+  font-weight: bold;
+  font-size: 25px;
+  background-image: linear-gradient(#9c8b5c, #f7dc92);
+}
+
+.card .desc {
+  text-align: center;
+  padding: 20px;
+}
+
+.card-main:hover {
+  box-shadow: 0 10px 30px 0px grey;
+}

@@ -1,0 +1,15 @@
+.experience {
+  padding: 0px 30px;
+}
+
+.experience .heading {
+  font-size: 56px;
+  font-weight: 400;
+}
+
+@media (max-width: 576px) {
+  .experience .heading {
+    font-size: 35px;
+    text-align: center;
+  }
+}
