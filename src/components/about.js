@@ -45,7 +45,7 @@ const LeftContent = (props) => {
           CONTACT ME
         </span>
         <a
-          href="https://drive.google.com/file/d/1f_nH1TaXPCsOhg_cmJrh4WHHkWRoWnXX/view?usp=sharing"
+          href="https://my.indeed.com/p/yaswanthm-nyjpd3v"
           target="_blank"
           rel="noreferrer"
         >
