@@ -4,9 +4,14 @@ import Fade from "react-reveal/Fade";
 function Experience({ darkMode }) {
   const experience = [
     {
+      heading: "Factset,
+      desc: "Software Engineer 2",
+      period: "Oct 2022 - Present",
+    },
+    {
       heading: "Acorn Globus",
       desc: "Full Stack Engineer",
-      period: "Nov 2021 - Present",
+      period: "Aug 2021 - Oct 2022",
     },
     {
       heading: "LeadSquared",
