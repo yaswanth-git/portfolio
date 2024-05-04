@@ -4,7 +4,7 @@ import Fade from "react-reveal/Fade";
 function Experience({ darkMode }) {
   const experience = [
     {
-      heading: "Factset,
+      heading: "Factset",
       desc: "Software Engineer 2",
       period: "Oct 2022 - Present",
     },
