@@ -11,7 +11,7 @@ function Experience({ darkMode }) {
     {
       heading: "Acorn Globus",
       desc: "Full Stack Engineer",
-      period: "Aug 2021 - Oct 2022",
+      period: "Sep 2021 - Oct 2022",
     },
     {
       heading: "LeadSquared",
